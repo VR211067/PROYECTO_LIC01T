@@ -14,12 +14,13 @@
 
 # Portal Web Personalizado de Catálogo de Productos Online Adaptable a Diversas Empresas
 
+
 ## Licencia
 
 Este proyecto está bajo la Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0).
 
-*Resumen:*
-- *Compartir igual:* Las obras derivadas deben ser compartidas bajo los mismos términos de esta licencia.
-- *No comercial:* No puedes usar el material para fines comerciales.
-- *Requisitos:* Debes dar crédito al autor original y distribuir cualquier obra derivada bajo la misma licencia.
-      Permisos:* Puedes copiar, redistribuir, adaptar, y construir sobre el trabajo para fines no comerciales.
+**Resumen:**
+- **Compartir igual:** Las obras derivadas deben ser compartidas bajo los mismos términos de esta licencia.
+- **No comercial:** No puedes usar el material para fines comerciales.
+- **Requisitos:** Debes dar crédito al autor original y distribuir cualquier obra derivada bajo la misma licencia.
+      *Permisos:** Puedes copiar, redistribuir, adaptar, y construir sobre el trabajo para fin.
