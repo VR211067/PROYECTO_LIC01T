@@ -1,10 +1,10 @@
 # PROYECTO LIC01T
-Integrantes:
-Roberto José Barahona Alemán BA221212
-José Ángel Cuellar Flores CF200830
-Luis Antonio Méndez Parada MP220885
-Priscila Lisseth Osorio Escobar OE210860
-Némesis Alejandra Valencia Rivera VR211067
+#Integrantes:
+#Roberto José Barahona Alemán BA221212
+#José Ángel Cuellar Flores CF200830
+#Luis Antonio Méndez Parada MP220885
+#Priscila Lisseth Osorio Escobar OE210860
+#Némesis Alejandra Valencia Rivera VR211067
 
 # link de figma 
 # https://www.figma.com/design/brxAnDuEogjCL22vJNUK8w/Figma-basics?node-id=611-342&m=dev&t=xVlsPqyJ7IQHPjJg-1
