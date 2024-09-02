@@ -23,4 +23,4 @@ Este proyecto está bajo la Licencia Creative Commons Atribución-NoComercial-Co
 - **Compartir igual:** Las obras derivadas deben ser compartidas bajo los mismos términos de esta licencia.
 - **No comercial:** No puedes usar el material para fines comerciales.
 - **Requisitos:** Debes dar crédito al autor original y distribuir cualquier obra derivada bajo la misma licencia.
-      *Permisos:** Puedes copiar, redistribuir, adaptar, y construir sobre el trabajo para fin.
+      *Permisos:** Puedes copiar, redistribuir, adaptar, y construir sobre el trabajo para fines comerciales.
