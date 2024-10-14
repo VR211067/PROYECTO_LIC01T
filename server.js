@@ -2,6 +2,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const dotenv = require('dotenv');
 const cors = require('cors');
+const path = require('path'); // Importa path
 
 const userRoutes = require('./routes/userRoutes'); // Asegúrate de que esta línea esté correcta
 const db = require('./config/db'); // Asegúrate de importar db
@@ -10,9 +11,7 @@ const app = express();
 dotenv.config();
 
 // Configura CORS para permitir solicitudes desde tu frontend
-
 app.use(cors());
-
 app.use(bodyParser.json()); // Mueve esta línea antes de las rutas para que funcione correctamente
 
 // Rutas de tu API
@@ -21,6 +20,13 @@ app.get('/api/test', (req, res) => {
     res.send('El servidor está funcionando correctamente');
 });
 
+// Servir archivos estáticos desde la carpeta dist
+app.use(express.static(path.join(__dirname, 'dist')));
+
+// Enrutar todas las demás solicitudes a index.html
+app.get('*', (req, res) => {
+    res.sendFile(path.join(__dirname, 'dist', 'index.html'));
+});
 
 const PORT = process.env.PORT || 5000;
 
@@ -35,3 +41,4 @@ db.connect(err => {
         });
     }
 });
+
